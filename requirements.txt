@@ -1,0 +1,6 @@
+Dependencies: -
+1- transformers
+2- sentence-transformers
+3- faiss-cpu
+4- streamlit
+5- fastapi
