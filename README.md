@@ -8,3 +8,6 @@ Natural Responses → Combines retrieved responses with few-shot prompting for h
 Interactive Demo → Deployable via Streamlit or Gradio, and easily shareable on Hugging Face Spaces or Streamlit Cloud.
 
 🔎 As a User you type in your input, RAG retrieves the emotion of your input using a retrieve function, then generates a rresponse using a generate_response function. The Chatbot classifies 3 emotions, positive, negative, neutral. It also applies on JOY, SADDNESS. 
+
+DEMO LIMK:
+https://drive.google.com/drive/folders/1pyNrLkivz9MA7cpmmTOqiVuEYEyT_HTR?dmr=1&ec=wgc-drive-globalnav-goto
